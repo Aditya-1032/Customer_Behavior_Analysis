@@ -60,8 +60,9 @@ Feel free to fork ⭐ and include it in your portfolio!
 
 Aditya Gupta
 🎓 Post Graduate in Statistics
-📧 adityagupta1032@gmail.com
-🔗 LinkedIn
+📧 [Email Me](adityagupta1032@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-gupta-06a07523b/)
+
 
 
 Let’s connect professionally and grow together in the world of data!
